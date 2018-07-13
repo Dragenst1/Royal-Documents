@@ -1,0 +1,82 @@
+{
+	"rankList":
+	[
+		{
+			"name": "Template",
+			"members": [
+				{
+					"user": "",
+					"alias": ""
+				},
+				{
+					"user": "",
+					"alias": ""
+				}
+			]
+		},
+		{
+			"name": "Royal Family",
+			"members":
+			[
+				{
+					"user": "Adrian",
+					"alias": "My King"
+				},
+				{
+					"user": "AmazonAbi",
+					"alias": "My Queen"
+				}
+			]
+		},
+		{
+			"name": "Elite",
+			"members":
+			[
+				{
+					"user": "Galactica",
+					"alias": "Grim Reaper"
+				}
+			]
+		}
+		{
+			"name": "Court Staff",
+			"members":
+			[
+				{
+					"user": "Dallas33",
+					"alias": "High Priest"
+				},
+				{
+					"user": "Slayman",
+					"alias": ""
+				},
+				{
+					"user": "Dragenst1",
+					"alias": "Royal Magus"
+				},
+				{
+					"user": "Elizabeth",
+					"alias": "Trusted Advisor"
+				},
+				{
+					"user": "Moa",
+					"alias": "Knight"
+				}
+			]
+		},
+		{
+			"name": "Regionals for Hire",
+			"members":
+			[
+				{
+					"user": "RedRobin",
+					"alias": "Messenger"
+				},
+				{
+					"user": "DIRPNINJA",
+					"alias": "Spy (Dayton)"
+				}
+			]
+		}
+	]
+}
